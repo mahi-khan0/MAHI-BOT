@@ -6,7 +6,7 @@ module.exports.config = {
     hasPermssion: 0,
     credits: 'dipto',
     aliases: 'bby',
-    usePrefix: true,
+    Prefix: true,
     description: 'talk with baby and teach it',
     commandCategory: 'system',
     usages: '[any message] OR\nteach [YourMessage] - [Reply1], [Reply2], [Reply3]... OR\nremove [YourMessage] OR\nrm [YourMessage] - [indexNumber] OR\nmsg OR\nlist OR\nedit [YourMessage] - [NewReply]',
